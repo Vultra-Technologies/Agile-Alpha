@@ -6,7 +6,7 @@ To see the Details of the ISO file please download from the google drive link an
 Please make sure to INSTALL (Not try) Vubuntu before giving feedback.
 Please Check Release Notes (Three Paragraphs Below) to see all pre-installed software.).
 
-What to expect in Alpha 1.2 (Next Major Version): Updated Boot Logo, Updated Installer, More Software, Bug Fixes
+What to expect in Alpha 1.3 (Next Major Version): Updated Boot Logo, Updated Dash, Appearance set to Dark,  More Software, Bug Fixes
 
 
 I am using Cubic on Ubuntu to make this flavor. (I am basically chrooting into the environment.).
@@ -16,16 +16,27 @@ I am using Cubic on Ubuntu to make this flavor. (I am basically chrooting into t
 
 
 
-Vubuntu 1.1.2 Release Notes:
-VSCode installed,
-Google Chrome Installed,
-Java and Javac installed,
-Sublime text installed,
-Terminator Installed,
-Docker Installed,
-Chromium Installed,
-Zoom Installed,
-New Wallpaper.
+VSCode 
+Google Chrome 
+Java 
+Javac 
+Sublime text 
+Terminator 
+Docker 
+Chromium 
+VirtualBox 
+VBox Ext pack
+Geary Mail
+XPad
+
+Above are installed software.
+
+
+Release Notes for Alpha 1.2
+Dash set to bottom
+Bug Fixes
+Installer Updated
+
 
 WARNINGS:
 
