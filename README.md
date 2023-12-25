@@ -28,15 +28,14 @@ VirtualBox
 VBox Ext pack
 Geary Mail
 XPad
+PCMANFM
 
 Above are installed software.
 
 
-Release Notes for Alpha 1.2
-Dash set to bottom
-Bug Fixes
-Installer Updated
-
+Alpha 1.2 coming soon!
+Few bugs need to be fixed.
+ALpha 1.2 is made to let developers be in a very comfortable enironment to work.
 
 WARNINGS:
 
