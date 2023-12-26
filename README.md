@@ -11,6 +11,8 @@ Check out https://github.com/Vultra-Technologies/Devtop/tree/main to see what is
 
 For more Info, Check out /root/Whats-New.html/ in Vubuntu.
 
+For Detailed Instructions of how to install, Look at the files.
+
 # Alpha 1.3.2 Minimum Requirements
 
 RAM: 6GB Minimum
