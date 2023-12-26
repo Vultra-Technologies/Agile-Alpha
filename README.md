@@ -9,6 +9,8 @@ Vubuntu is based on Ubuntu 23.10.
 
 Check out https://github.com/Vultra-Technologies/Devtop/tree/main to see what is going on with Devtop.
 
+For more Info, Check out /root/Whats-New.html/ in Vubuntu.
+
 # Alpha 1.3.2 Minimum Requirements
 
 RAM: 6GB Minimum
