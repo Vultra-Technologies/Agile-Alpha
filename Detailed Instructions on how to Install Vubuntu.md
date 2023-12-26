@@ -2,7 +2,7 @@
 
 First, go to this website: https://github.com/Vultra-Technologies/Vubuntu-Alpha
 
-Second, open the .md file.
+Second, open the file that begins with Alpha.
 
 ![Screenshot_20231226_181629](https://github.com/Vultra-Technologies/Vubuntu-Alpha/assets/154476663/e31d288c-b85f-42e8-9110-c1515dd06f36)
 
