@@ -1,43 +1,19 @@
 # Vubuntu-Alpha
 The Ubuntu Flavor for Developers that gets things done.
 Vubuntu is only in Its Alpha Phase, SO major changes may happen in this time.
-There are Multiple Versions, and you can download them from the link provided in the txt files. I would recommend you to use 1.1.2, so you can test it and give me feedback.
+There are Multiple Versions, and you can download them from the link provided in the txt files. I would recommend you to use 1.3, so you can test it and give me feedback.
 To see the Details of the ISO file please download from the google drive link and extract.
 Please make sure to INSTALL (Not try) Vubuntu before giving feedback.
-Please Check Release Notes (Three Paragraphs Below) to see all pre-installed software.).
+Starting in Alpha 1.3, Vubuntu has its own DE! It's name being Devtop, it enables developers to have a straightforward way to navigate Vubuntu. For Initial boot, Vanilla Gnome is used. You can then add a user and use Devtop. Devtop is in its very First Stage so it is pretty much bare bones. A Github Repository is in the making for Devtop, so be patient for more information.
 
-What to expect in Alpha 1.3 (Next Major Version): Updated Boot Logo, Updated Dash, Appearance set to Dark,  More Software, Bug Fixes
+Alpha 1.2 will be posted soon; Alpha 1.2 is essentially Alpha 1.3 but with more bugs and no Devtop.
 
 
 I am using Cubic on Ubuntu to make this flavor. (I am basically chrooting into the environment.).
 
-
-
-
-
-
-VSCode 
-Google Chrome 
-Java 
-Javac 
-Sublime text 
-Terminator 
-Docker 
-Chromium 
-VirtualBox 
-VBox Ext pack
-Geary Mail
-XPad
-PCMANFM
-
-Above are installed software.
-
-
-Alpha 1.2 coming soon!
-Few bugs need to be fixed.
-ALpha 1.2 is made to let developers be in a very comfortable enironment to work.
+More Info on the way!
 
 WARNINGS:
 
-Using Vubuntu as your main OS currently is not recommended. Please use it in a VM. If you want, you can install it on a partition on a junk computer to install for testing. VUBUNTU DOES NOT GET PROPER UPDATES YET. If you are testing Vubuntu, please INSTALL it on a junk computer or on a VM. DO NOT try it out and judge it. Vubuntu 1.1.1 is not a public release, so don’t worry about it. Thanks! 
+Using Vubuntu as your main OS currently is not recommended. Please use it in a VM. If you want, you can install it on a partition on a junk computer to install for testing. VUBUNTU DOES NOT GET PROPER UPDATES YET. If you are testing Vubuntu, please INSTALL it on a junk computer or on a VM. DO NOT try it out and judge it. Thanks! 
 
