@@ -36,3 +36,13 @@ All Minimum requirements are only Recommended. Using worse hardware may cause pr
 
 Using Vubuntu as your main OS currently is not recommended. Please use it in a VM. If you want, you can install it on a partition on a junk computer to install for testing. VUBUNTU DOES NOT GET PROPER UPDATES YET. If you are testing Vubuntu, please INSTALL it on a junk computer or on a VM. DO NOT try it out and judge it. Thanks! 
 
+# Installation
+
+Either see the detailed installation guide or figure out yourself how to install the ISO file.
+
+You can also use the wget command to install.
+
+Simply use
+```wget 'https://drive.usercontent.google.com/download?id=1n4bz9MUqCNR9Tm5NgQ_0uiYLt2XihVG6&export=download&authuser=0&confirm=t&uuid=f0ee9a25-2ac6-4d53-8896-07e55b266430&at=APZUnTVhgjqZomr4BnOjmhtoyxTU:1703635817904'```
+
+
