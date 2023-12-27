@@ -38,9 +38,9 @@ Using Vubuntu as your main OS currently is not recommended. Please use it in a V
 
 # Installation
 
-Either see the detailed installation guide or figure out yourself how to install the ISO file.
+Either see the detailed installation guide or figure out yourself how to install and boot the ISO file.
 
-You can also use the wget command to install.
+You can also use the wget command to install the ISO file.
 
 Simply use
 ```wget 'https://drive.usercontent.google.com/download?id=1n4bz9MUqCNR9Tm5NgQ_0uiYLt2XihVG6&export=download&authuser=0&confirm=t&uuid=f0ee9a25-2ac6-4d53-8896-07e55b266430&at=APZUnTVhgjqZomr4BnOjmhtoyxTU:1703635817904'```
