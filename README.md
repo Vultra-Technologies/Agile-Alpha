@@ -9,7 +9,7 @@ Vubuntu is based on Ubuntu 23.10.
 
 Check out https://github.com/Vultra-Technologies/Devtop/tree/main to see what is going on with Devtop.
 
-For more Info, Check out /root/Whats-New.html/ in Vubuntu.
+For more Info, Check out /root/Whats-New.txt/ in Vubuntu.
 
 For Detailed Instructions of how to install, Look at the files.
 
